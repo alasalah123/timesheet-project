@@ -22,7 +22,7 @@ The following guides illustrate how to use some features concretely:
 Alaeddine Salah
 4TWIN9
 
-## CHAP4/Branch
+## Master/Branch
 
 Nom : Alaeddine
 Prénom : Salah
